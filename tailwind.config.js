@@ -9,6 +9,9 @@ export default {
       fontFamily:{
         Mono: "'Montserrat', sans-serif"
 
+      },
+      colors:{
+        pro:'#F9A51A'
       }
     },
   },
